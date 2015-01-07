@@ -1,6 +1,12 @@
 This is a full python library for Metadisk API as stated in:
 https://github.com/Storj/web-core#api-documentation
 
+To install all the requirements:
+```
+pip install -r requirements.txt
+```
+
+
 Sample usage:
 
 ```
